@@ -3,7 +3,7 @@ import shutil
 
 # assign directory locations
 src_dir = "E:\Minecraft_Servers\Fabric_1.19.2_0.14.13\Altis"
-# Use raw string to ensure dir path wiht numbers is read correctly
+# Use raw string to ensure dir path with numbers is read correctly
 dest_dir = r'E:\MultiMC\instances\1.19.3\.minecraft\saves\Altis' 
 
 # if directory exists remove it
